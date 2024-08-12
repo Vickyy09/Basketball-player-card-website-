@@ -21,4 +21,4 @@ To get started with my Basketball Players Card website, follow these steps:
      npm start
      ```
 
-![Project Screenshots](public/project-screenshots/Screenshot-1.png)
+![Project Screenshots](https://github.com/Vickyy09/Basketball-player-card-website-/blob/master/public/project%20screenshots/Screenshot%201.png)
