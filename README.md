@@ -1,20 +1,24 @@
-# Getting Started with Basketball Player card
+## Installation
+To get started with my Basketball Players Card website, follow these steps:
 
-Extract the file completly.
+1. Clone this repository to your local machine using Git.
+     ```bash
+   git clone https://github.com/Vickyy09/Basketball-player-card-website-.git
+   ```
+2. Change to the project directory.
+     ```bash
+     cd basketball-player-card
+     ```
 
-## Move to project directory
+3. Install server dependencies.
+    ```bash
+    npm install
+    ```
+4. Then open emulator in Android studio manually.
+    
+5. start the project.
+     ```bash
+     npm start
+     ```
 
-`cd basketball-player-card`
-
-`npm install`
-
-## To start the project 
-
-`npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
+![Project Screenshots](public/project-screenshots/Screenshot-1.png)
